@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\Word\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5efc157574bb83fc86be180687368779dc433969\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\c9cc23c291aab9ba94416bf77c493de9c086211e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3b7b2e380d0fde51b0ab6596b3a6537a1af67fff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\88459f14caebbc90509608f7a3866a65eecf711e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1ad3d1a35fafb1cef9624308b5578dd0a0629a33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\Word\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a57837b792cf398b022b41fd14d6d896eab69af">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_30a565337c0dfb5e74f0ef09dfe172f6519cc1e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0582d70995c8c06eb5cd75c53cad651ebcd1806a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_18029fa7152035aa7ece5132856b650767775aa2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b28b00044e0607bd0665fdbb7c9cea99f3d36a9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b82e3c87e1fcde8f033d8f8410c109a2be4f98d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Roony\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.0-alpha7\constraint-layout-solver-1.0.0-alpha7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="439eeb5ffd54cbd18db0a6aea471e8356f19fc36">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.0-alpha7_270a373db08e86841b845832a4dba455f08b6c41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Roony\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_386f1afe7846dd484a48510ce2a5e990b7693d83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\511159c3e0aa2baa1c5e539cd54250afc8992000\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e8a45828fe13e06bc64dec154e7e408601ce50a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\03481a7a617c6d96c7928e82711aa57a3b4af12c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="541a2ad68dc68aa49795821f8280b7624e6a0c9b">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fddfbfdd34ccb1b99d290e922f9ac8e692ab099d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\38938560be927c279a945750703ee594706ebf3c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12b1412a5d37bb1f66efd1624042ecee58e631c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\0e54f8b2ed9d450076dd9a22f1a14544e21237a7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3a4e7b2e9dca8090c3148b9bdadd85f8ffc8b58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\b45e00d2816533b1ad4afe69921204f611b384eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_333d4b38aabbb9a7580eb4556d0696be4ef56cfc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\d8e4b4b6fb5a12d3589170aa3e94db807d7703c4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3fc92173a9295abeec258576de2cf25a8ff1d948\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\2c3b23fd2e66b0038d16e1a00f5629ab7a1b5e6e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ccf185e5bb8db31bae0294da9fb31eead469ff6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\1caf39d1c96876c5216d563244b753c0650abfc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b25870bb68853a8a13ddac7dfa404542a85f16be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\.android\build-cache\91914e61444fd97074d3d2fd97453ce0daf49cf1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Android\Word\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f5909956a2dad42de955408841a6b8d699fec7a0\classes.dex" />
+    </item>
+
+</items>
